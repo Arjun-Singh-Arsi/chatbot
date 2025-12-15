@@ -1,0 +1,15 @@
+streamlit
+langchain-core
+python-dotenv
+langchain
+langchain-community
+pypdf
+ddgs
+faiss-cpu
+langchain-openai
+langgraph
+requests
+langgraph-checkpoint-sqlite
+langchain-text-splitters
+mcp
+langchain-mcp-adapters
